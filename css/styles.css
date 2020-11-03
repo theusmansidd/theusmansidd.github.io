@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #03a1fc;
   text-decoration: none;
   background-color: transparent;
 }
@@ -9799,7 +9799,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: #03a1fc !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
