@@ -10,6 +10,7 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -159,12 +160,12 @@ sup {
 }
 
 a {
-  color: #03a1fc;
+  color: #00498a;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #824027;
+  color: #00498a;
   text-decoration: underline;
 }
 
@@ -2472,13 +2473,13 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #bd5d38;
-  border-color: #bd5d38;
+  background-color: #fff;
+  border-color: #00498a;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #9f4e2f;
-  border-color: #964a2c;
+  background-color: #fff;
+  border-color: #343a40;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
@@ -6097,7 +6098,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #03b6fc !important;
+  background-color: #00498a !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9799,7 +9800,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #03a1fc !important;
+  color: #00498a !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10100,7 +10101,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #00498a;
 }
 
 .dev-icons {
